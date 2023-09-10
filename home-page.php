@@ -27,6 +27,17 @@
     </main>
   <!--Jose Luis section FIN-->   
 
+  <!-- Diego section START -->
+  <div class="about">
+   <section>
+      <article></article>
+      <article></article>
+      <article></article>
+      <article></article>
+   </section>
+  </div>
+  <!-- Diego section START -->
+  
   <!--Apartir de aqui creen sus secciones y eliminen este comentario-->
 
 
