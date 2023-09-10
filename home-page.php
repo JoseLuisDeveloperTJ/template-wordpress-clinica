@@ -8,28 +8,30 @@
     <!--CSS LINK NO TOCAR--><link rel="stylesheet" href="styles-home.css">
     <title>Inicio</title>
 </head>
-<body>
-    <!--Jose Luis section-->
-    
-    <header>
+  <body>
 
-       <div class="logo-container">
-          <img src="" alt="">
-       </div>
+      <!--Jose Luis section-->
+      
+      <header>
 
-       <nav>
+        <div class="logo-container">
+            <img src="" alt="">
+        </div>
 
-       </nav>
-    </header>
+        <nav>
 
-    <main>
+        </nav>
+      </header>
 
-    </main>
-  <!--Jose Luis section FIN-->   
+      <main>
 
-  <!--Apartir de aqui creen sus secciones y eliminen este comentario-->
+      </main>
+    <!--Jose Luis section FIN-->   
+
+    <!--Apartir de aqui creen sus secciones y eliminen este comentario-->
+   
 
 
-<!--BOOTSTRAP BUNDLE NO TOCAR-->  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script> 
-</body>
+  <!--BOOTSTRAP BUNDLE NO TOCAR-->  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script> 
+  </body>
 </html>
