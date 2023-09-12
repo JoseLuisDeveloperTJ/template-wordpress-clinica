@@ -107,6 +107,7 @@ main{
 
 .container-right > img{
     height: 700px;
+<<<<<<< HEAD
      margin-left: 10px;
      
 }
@@ -183,3 +184,33 @@ footer .wave
         font-size: 30px;
     }
 }
+=======
+    margin-left: 10px;
+}
+
+.container-blogs {
+    padding: 0 14.6%;
+}
+
+#flex-blog-container{
+    flex-direction: row !important;
+}
+
+#animation-card {    
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, .05), 0 20px 50px 0 rgba(0, 0, 0, .1);
+	border-radius: 15px;
+	overflow: hidden;
+	padding: 1.25rem;
+	position: relative;
+	transition: 0.15s ease-in;
+}
+
+#animation-card:hover, #animation-card:focus-within {
+    transform: translatey(-5px);
+}
+
+
+.dark-blue {
+    background-color: #1E3B65;
+}
+>>>>>>> 5ce129ef7aed764056e9b7a36293ea9027e940e0
