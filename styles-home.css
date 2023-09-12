@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
 * {
   font-weight: 600;
 }
@@ -161,4 +163,77 @@ main {
 
 .card:hover {
   background-color: #8cceef;
+}
+/* Styles del fotter comienzo*/
+footer {
+  background-color: #0071BC;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+  position: relative;
+  min-height: 100px;
+  padding: 20px 50px;
+}
+
+.social-links {
+  margin-top: 10px;
+}
+
+.social-links a {
+  text-decoration: none;
+  color: white;
+  margin: 0 10px;
+}
+
+.social-links i {
+  font-size: 24px;
+}
+
+.social-links i {
+  font-size: 24px;
+}
+/* Estilos para las secciones verticales del footer */
+.footer-section {
+  text-align: left;
+}
+
+/* Estilos para el formulario de contacto */
+.contact-form {
+  background-color: #003B6F;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+/* Estilos para el mapa */
+.map {
+  height: 300px;
+  border: 3px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+footer .wave 
+{
+  position:absolute;
+  top: -100px;
+  left: 0;
+  width :100px;
+  height: 100px;
+  background :#f00 url(wave.png);
+  background-size: 1000px;
+}
+/* Styles del footer final*/
+
+@media (max-width: 768px) {
+  .social-links {
+      margin-top: 20px;
+  }
+
+  .social-links a {
+      font-size: 18px;
+  }
+
+  .social-links i {
+      font-size: 30px;
+  }
 }
