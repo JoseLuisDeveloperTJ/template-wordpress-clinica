@@ -121,3 +121,17 @@ main {
   aspect-ratio: 1;
   border-radius: 5%;
 }
+
+.card {
+  background-color: #8cceef;
+  border-radius: 15px;
+}
+
+.card > img {
+  border-radius: 10px;
+  margin-top: 5px;
+}
+
+.card:hover {
+  background-color: #8cceef;
+}
