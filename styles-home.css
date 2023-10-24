@@ -25,6 +25,7 @@ header {
   ); /* Color de fondo con transparencia */
   backdrop-filter: blur(5px); /* Efecto de desenfoque gaussiano */
   transition: background-color 0.3s, backdrop-filter 0.3s;
+   z-index: 3;
 }
 
 ul > li {
